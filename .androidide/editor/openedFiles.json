@@ -1,0 +1,50 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AiFinal3/app/src/main/java/com/example/aifinal3/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AiFinal3/app/src/main/java/com/example/aifinal3/BlueClass.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 11438,
+          "line": 294
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AiFinal3/app/src/main/java/com/example/aifinal3/ForeService.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 2401,
+          "line": 89
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/AiFinal3/app/src/main/java/com/example/aifinal3/BlueClass.java"
+}
